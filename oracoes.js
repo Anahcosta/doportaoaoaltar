@@ -26,3 +26,7 @@ Eia, pois, advogada nossa, esses vossos olhos misericordiosos a nós volvei. E, 
 
 Rogai por nós, santa Mãe de Deus, para que sejamos dignos das promessas de Cristo. Amém.`}
 ];
+{
+  titulo: "Oração de Súplica pelo Futuro do Grupo",
+  imagem: "oracao-futuro-grupo.jpg"
+}
